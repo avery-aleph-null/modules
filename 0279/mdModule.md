@@ -168,6 +168,8 @@ Mechanically, implication can be defined using other Boolean operators,
 $x \Rightarrow y = \neg x \vee y$. As such, it is easy to understand its
 truth table:
 
+##### <mark>Implication is true when RHS is 1.</mark>
+
 | x | y | $x \Rightarrow y$ |
 |---|---|-------------------|
 | 0 | 0 |         1 |
